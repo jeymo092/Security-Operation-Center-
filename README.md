@@ -79,3 +79,8 @@ This project adheres to key data privacy principles, ensuring accountability, tr
 3. **Accuracy and Purpose Limitation:**
    - Regular validation and update of security incident information for accuracy.
    - Clear definition of the purpose of data collection and processing within the SOC.
+
+## Getting Started
+
+Follow these steps to get started with the SOC Project
+
