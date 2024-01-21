@@ -40,6 +40,12 @@ Welcome to the Security Operations Center (SOC) Project repository! This project
 - **Intrusion Detection:**
   - Continuous monitoring for signs of unauthorized access or malicious activities.
 
+- **Systems Health Check:**
+  - Periodic assessment of system health to identify potential issues and vulnerabilities.
+
+- **Log Monitoring:**
+  - Real-time monitoring and analysis of system logs for security events and anomalies.
+
 ## Data Privacy and Compliance
 
 This project adheres to key data privacy principles, ensuring accountability, transparency, and compliance with GDPR regulations.
@@ -62,6 +68,3 @@ This project adheres to key data privacy principles, ensuring accountability, tr
 
 Follow these steps to get started with the SOC Project:
 
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
