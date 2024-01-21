@@ -46,6 +46,22 @@ Welcome to the Security Operations Center (SOC) Project repository! This project
 - **Log Monitoring:**
   - Real-time monitoring and analysis of system logs for security events and anomalies.
 
+## Requirements
+
+To set up and run the SOC Project, you'll need the following:
+
+1. **PC:**
+   - A dedicated machine for running central components such as SIEM, XDR, SOAR, and log monitoring tools.
+
+2. **Servers (2):**
+   - Two servers to host various components, ensuring redundancy and reliability.
+
+3. **TheHive:**
+   - Implementation of TheHive for incident case management.
+
+4. **Wazuh Manager:**
+   - Deployment of Wazuh Manager for log analysis and intrusion detection.
+
 ## Data Privacy and Compliance
 
 This project adheres to key data privacy principles, ensuring accountability, transparency, and compliance with GDPR regulations.
@@ -63,8 +79,3 @@ This project adheres to key data privacy principles, ensuring accountability, tr
 3. **Accuracy and Purpose Limitation:**
    - Regular validation and update of security incident information for accuracy.
    - Clear definition of the purpose of data collection and processing within the SOC.
-
-## Getting Started
-
-Follow these steps to get started with the SOC Project:
-
